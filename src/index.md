@@ -1,4 +1,6 @@
 ---
+contact: Feel free to contact me about any development opportunities or general
+  musings via my email address info@iaan.co.uk
 layout: home
 title: About Me
 metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
@@ -7,8 +9,8 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 showLatest: false
 socialImage: ""
-contact: Feel free to contact me about any development opportunities or general
-  musings via my email address info@iaan.co.uk
+contactBody: Feel free to contact me about any development opportunities or
+  general musings via my email address info@iaan.co.uk
 ---
 Obsessed with the internet since childhood I’ve pursued a career in web development which equipped me with over 8 years of commercial experience working with clients such as Xbox.com, NHS Partnerships, The Lancet and much more.
 
